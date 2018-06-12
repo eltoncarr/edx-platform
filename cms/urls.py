@@ -5,7 +5,6 @@ from ratelimitbackend import admin
 
 from cms.djangoapps.contentstore.views.program import ProgramAuthoringView, ProgramsIdTokenView
 from cms.djangoapps.contentstore.views.organization import OrganizationListView
-from openedx.core.djangoapps.site_configuration import helpers as configuration_helpers
 
 admin.autodiscover()
 
