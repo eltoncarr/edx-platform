@@ -371,7 +371,7 @@ FEATURES = {
     'ENABLE_XBLOCK_XML_VALIDATION': True,
 
     # Set this to True to enable Azure Media Service XBlock installed for embed video player
-    'ENABLE_AZURE_MEDIA_SERVICE_XBLOCK': False,
+    'ENABLE_AZURE_MEDIA_SERVICES_XBLOCK': False,
 }
 
 # Ignore static asset files on import which match this pattern
